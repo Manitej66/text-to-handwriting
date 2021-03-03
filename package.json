@@ -1,0 +1,16 @@
+{
+  "name": "text-to-hand",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/storage-blob": "^12.0.0",
+    "@types/dotenv": "^4.0.3",
+    "dotenv": "^6.0.0",
+    "handwritten.js": "^18.10.0"
+  },
+  "devDependencies": {}
+}
